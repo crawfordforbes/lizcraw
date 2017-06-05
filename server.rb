@@ -1,5 +1,5 @@
 require 'sinatra'
-require 'pry'
+
 
 set :public_folder, './public'
 
